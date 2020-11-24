@@ -1,3 +1,3 @@
-# simple tictactoe
+# Tic-Tac-Toe
 
-made by joodh999
+Tic-Tac-Toe with Minimax algorithm
